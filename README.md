@@ -26,10 +26,9 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **i like lp**
 
-- <br>
+<br>
 <br>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
