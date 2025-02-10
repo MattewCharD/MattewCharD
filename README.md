@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Matteo</h1>
-
+<br>
 
 - 🔭 I’m currently working on **School project**
 
@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences [https://thesign.academy/corsi/?gad_source=1&gclid=CjwKCAiAwaG9BhAREiwAdhv6Y6Bv6dp8N1KY1IaOTuBXS8NtrZhn2s-5qW43U25X54hU92B2xVp5zxoCTK0QAvD_BwE](https://thesign.academy/corsi/?gad_source=1&gclid=CjwKCAiAwaG9BhAREiwAdhv6Y6Bv6dp8N1KY1IaOTuBXS8NtrZhn2s-5qW43U25X54hU92B2xVp5zxoCTK0QAvD_BwE)
 
 - ⚡ Fun fact **i like lp**
+
+- <br>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
